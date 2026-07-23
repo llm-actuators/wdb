@@ -1,0 +1,8 @@
+wdb
+/tmp/
+*.log
+firebase-debug.log
+*-debug.log
+.DS_Store
+.claude/settings.local.json
+.claude/projects/
